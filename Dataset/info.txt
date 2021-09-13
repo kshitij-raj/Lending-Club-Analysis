@@ -1,2 +1,3 @@
+loan.zip - download and extract the file.
 loan.csv - Dataset used for analysis.
 Data_Dictionary - Description of columns presnet in the dataset.
